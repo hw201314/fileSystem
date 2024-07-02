@@ -1,0 +1,16 @@
+{
+  "name": "file-system",
+  "version": "1.0.0",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "flexsearch": "^0.7.31",
+    "vitepress": "^1.2.3",
+    "vitepress-plugin-search": "^1.0.4-alpha.21"
+  },
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs --port 4173"
+  }
+}
