@@ -16,8 +16,8 @@ export default {
     ],
   },
   title: "文档名称",
-  base: "/file-system/",
-  head: [["link", { rel: "icon", href: "/file-system/logo.ico" }]],
+  base: "/fileSystem/",
+  head: [["link", { rel: "icon", href: "/fileSystem/logo.ico" }]],
   lastUpdated: true,
   ignoreDeadLinks: true,
   themeConfig: {
