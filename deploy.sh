@@ -13,7 +13,7 @@ git init
 git add -A
 git commit -m "deploy"
 
-git remote add origin https://gitee.com/FnTop/acri-doc.git
+git remote add origin https://github.com/hw201314/fileSystem.git
 
 git push -f origin master
 
